@@ -23,8 +23,6 @@
       {"id":"21","text":null,"nombre":"NX","imagen":"img\/Lexus_NX.jpg","precio":"39750","fabricante":"9","tecnologia":"2"},
       {"id":"22","text":null,"nombre":"RX","imagen":"img\/Lexus_RX.jpg","precio":"68400","fabricante":"9","tecnologia":"2"},
       {"id":"23","text":null,"nombre":"Clase C","imagen":"img\/Mercedes-C.jpg","precio":"50225","fabricante":"10","tecnologia":"3"},
-      {"id":"24","text":null,"nombre":"Clase E","imagen":"img\/Mercedes-E.jpg","precio":"64800","fabricante":"10","tecnologia":"3"},
-      {"id":"29","text":null,"nombre":"LEAF","imagen":"img\/Nissan_LEAF_24Ah.jpg","precio":"29235","fabricante":"12","tecnologia":"1"},
-      {"id":"30","text":null,"nombre":"e-NV200","imagen":"img\/Nissan_E-NV200.jpg","precio":"25342","fabricante":"12","tecnologia":"1"}
+      {"id":"24","text":null,"nombre":"e-NV200","imagen":"img\/Nissan_E-NV200.jpg","precio":"25342","fabricante":"12","tecnologia":"1"}
     ]
 }
